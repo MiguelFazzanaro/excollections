@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 package exercicios.ex2
 
 fun main() {
@@ -28,4 +27,4 @@ fun main() {
         print(conjunto)
 
 }
->>>>>>> exe2
+
